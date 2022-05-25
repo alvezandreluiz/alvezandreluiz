@@ -47,6 +47,6 @@ Sou graduado em Gestão da Tecnologia da Informação e atualmente estou estudan
 
 <hr>
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvezandreluiz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="alvezandreluiz"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvezandreluiz&layout=compact&langs_count=16&theme=dracula"/>
+<img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=alvezandreluiz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="alvezandreluiz"/> <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvezandreluiz&layout=compact&langs_count=16&theme=dark"/>
  
  <hr>
