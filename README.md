@@ -39,6 +39,19 @@
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 
+<hr>
+
+### Contatos
+  
+<div>
+<a href = "alvezandreluiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andré-alves-b48073238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!-- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+-->
+<!-- ![Snake animation](https://https://github.com/alvezandreluiz/blob/output/github-contribution-grid-snake.svg)
+-->
+</div>  
+  
 </div>
 <hr>
 <div style="display: inline_block">
