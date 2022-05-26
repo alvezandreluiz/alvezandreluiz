@@ -1,6 +1,6 @@
 ### Olá, eu sou o André Alves.
 
-### Minhas habilidades
+### Meus conhecimentos
 
 ### Front-End
 
@@ -21,6 +21,7 @@
 ### Back-End
   
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 <img alt="Node" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" width="90px"/>
 
 <br>
